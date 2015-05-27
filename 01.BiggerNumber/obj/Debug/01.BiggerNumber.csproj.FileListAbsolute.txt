@@ -1,0 +1,6 @@
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb

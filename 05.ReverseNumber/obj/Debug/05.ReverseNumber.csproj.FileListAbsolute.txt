@@ -1,0 +1,5 @@
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

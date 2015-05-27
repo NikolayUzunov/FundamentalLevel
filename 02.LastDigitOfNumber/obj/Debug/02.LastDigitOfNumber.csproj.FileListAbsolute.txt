@@ -1,0 +1,5 @@
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+D:\PROGRAMING\FUNDAMENTAL LEVEL\ADVANCE C#\02.1.Methods\02.Methods\Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
